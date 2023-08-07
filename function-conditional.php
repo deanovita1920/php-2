@@ -137,4 +137,10 @@ echo tentukan_nilai(76); //Baik
 echo "<br>";
 echo tentukan_nilai(67); //Cukup
 echo "<br>";
-echo tentukan_nilai(43); 
+echo tentukan_nilai(43); //kurang
+
+?>
+
+</body>
+
+</html
