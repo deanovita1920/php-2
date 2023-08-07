@@ -22,17 +22,14 @@ contoh: greetings("abduh");
 Output: "Halo Abduh, Selamat Datang di Jabar Coding Camp!"
 */
 
-// Code function di sini
-
-
-// Hapus komentar untuk menjalankan code!
-// greetings("Bagas");
-// greetings("Wahyu");
-// greetings("Abdul");
+// Code function di 
 
 function greettings($nama) {
     echo "Halo " . ucfirst($nama).",Selamat Datang di jabar Coding Camp!";
 }
+echo "<br>";
+
+// Hapus komentar untuk menjalankan code!
 greettings("Bagas");
 echo "<br>";
 greettings("Wahyu");
@@ -40,4 +37,3 @@ echo "<br>";
 greettings("Abdul");
 
 
-echo "<br>";
